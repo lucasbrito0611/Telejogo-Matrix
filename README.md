@@ -1,12 +1,13 @@
 # Infoweb Turma 2022 - FLA Game
 
-## Objetivo
-- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
+## Regras do jogo
+- Não pode encostar nas bordas do mapa.
+- Não pode encostar nos retângulos vermelhos.
 
-## Tecnologias
-- [Python](https://www.python.org/)
-- [pygame](https://www.pygame.org/)
+### Como Jogar
+- Você controla o retângulo preto que inicialmente nasce no canto esquerdo da janela. 
+- Use as teclas W, A, S, D ou as setinhas.
+- Chegue na plataforma verde do outro lado da janela para passar de fase. 
 
-## Lista de jogos produzidos
-1. FIXME
-2. FIXME
+### Objetivo do jogo
+- Conseguir passar de todas as 6 fases para ganhar. 
