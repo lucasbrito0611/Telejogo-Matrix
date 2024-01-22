@@ -1,5 +1,8 @@
 # Infoweb Turma 2022 - FLA Game
 
+## Objetivo do Repositório
+- Esse repositório tem o objetivo de mostrar um projeto de um jogo feito em Python, com o Pygame. 
+
 ### Regras do jogo
 - Não pode encostar nas bordas do mapa.
 - Não pode encostar nos retângulos vermelhos.
